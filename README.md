@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Sono&duration=1000&pause=15000&color=5BF000&width=500&lines=Hello,+World!)](https://git.io/typing-svg) 
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Sono&duration=1000&pause=15000&color=902FF7FF&width=500&lines=Hello,+World!)](https://git.io/typing-svg) 
 
 <!--
 **Rafaela-Dev/Rafaela-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
