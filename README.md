@@ -1,4 +1,5 @@
-## print("\033[92mHello World\033[0m") 👋
+echo -e "\033[0;32mHello World\033[0m"
+
 
 <!--
 **Rafaela-Dev/Rafaela-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
