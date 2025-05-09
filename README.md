@@ -3,6 +3,10 @@
 <!--
 **Rafaela-Dev/Rafaela-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
+ #### 📝 Struggling in the 4th Semester of Internet Systems at IF-SP.
+ #### ⚡ Current project: *TDK*.
+ #### 👨‍🏫 Working as: IT teacher for elementary school students.
+
  #### 🔭 I’m currently working on a IT job
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
