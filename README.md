@@ -1,7 +1,7 @@
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&pause=1000&color=902FF7FF&width=500&lines=Hello,+World!)](https://git.io/typing-svg) [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&pause=1000&color=902FF7&width=435&lines=My+code+runs+on+caffeine!)](https://git.io/typing-svg) [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&pause=1000&color=902FF7&width=435&lines=Future+indie+dev...)](https://git.io/typing-svg)
 
 <!--
-**Rafaela-Dev/Rafaela-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+**Rafaela-Dev/Rafaela-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 
  #### 📝 Struggling in the 4th Semester of Internet Systems at IF-SP.
  #### ⚡ Current project: *TDK*.
@@ -16,3 +16,4 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+-->
