@@ -7,7 +7,9 @@ These are some of the technologies and tools that I work with:
 
 # Backend: 
 ![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c++)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+<br>
 On working: ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
 
 
