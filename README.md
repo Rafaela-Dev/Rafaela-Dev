@@ -38,9 +38,6 @@ On working: ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-sq
 
 ____
 
-## 📊 GitHub Stats
-![Rafaela's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaela-dev&show_icons=true&theme=tokyonight)
-
 <!--
 **Rafaela-Dev/Rafaela-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 
