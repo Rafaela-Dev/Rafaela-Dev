@@ -31,6 +31,7 @@ In progress: ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=for-th
 ## Tools:
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
+![Flutter](https://img.shields.io/badge/-Flutter-00B4D8?style=for-the-badge&logo=flutter)
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
 ## IDEs:
