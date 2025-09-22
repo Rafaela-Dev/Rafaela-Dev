@@ -5,20 +5,20 @@
 
 These are some of the technologies and tools that I work with:
 
-Backend: 
+# Backend: 
 ![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 On working: ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
 
 
-Frontend:
+# Frontend:
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![Dart](https://img.shields.io/badge/-Dart-ADD8E6?style=flat-square&logo=dart)
+![Dart](https://img.shields.io/badge/-Dart-00B4D8?style=flat-square&logo=dart)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 
-Database:
+# Database:
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 
