@@ -11,7 +11,7 @@ These are some of the technologies and tools that I work with:
 ![C++](https://img.shields.io/badge/-C++-E40F7D?style=flat-square&logo=c++)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 <br>
-On working: ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
+In progress: ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
 
 ## Frontend:
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -26,7 +26,7 @@ On working: ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&
 ## Database:
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 <br>
-On working: ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+In progress: ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 
 ## Tools:
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
