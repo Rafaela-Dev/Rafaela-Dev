@@ -29,7 +29,7 @@ In progress: ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-bad
 In progress: ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=mongodb)
 
 ## Tools:
-![Git](https://img.shields.io/badge/-Git-23F05033?style=for-the-badge&logo=git)
+![Git](https://img.shields.io/badge/-Git-%23F05033?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
 ![Flutter](https://img.shields.io/badge/-Flutter-00B4D8?style=for-the-badge&logo=flutter)
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
