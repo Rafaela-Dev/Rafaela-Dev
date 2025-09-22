@@ -7,7 +7,7 @@ ____
 These are some of the technologies and tools that I work with:
 
 ## Backend: 
-![PHP](https://img.shields.io/badge/-PHP-8993be?style=for-the-badge&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-8993be?style=for-the-badge&logoColor=black)
 ![C++](https://img.shields.io/badge/-C++-E40F7D?style=for-the-badge&logo=c++)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logoColor=whitet)
 <br>
