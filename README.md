@@ -1,5 +1,6 @@
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&pause=1000&color=902FF7FF&width=500&lines=Hello,+World!)](https://git.io/typing-svg) [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&pause=1000&color=902FF7&width=435&lines=My+code+runs+on+caffeine!)](https://git.io/typing-svg) [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&pause=1000&color=902FF7&width=435&lines=Future+game+dev...)](https://git.io/typing-svg)
 
+____
 
 # ⚡ Technologies
 
@@ -34,6 +35,11 @@ On working: ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-sq
 ## IDEs:
 ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+____
+
+## 📊 GitHub Stats
+![Rafaela's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaela-dev&show_icons=true&theme=tokyonight)
 
 <!--
 **Rafaela-Dev/Rafaela-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
